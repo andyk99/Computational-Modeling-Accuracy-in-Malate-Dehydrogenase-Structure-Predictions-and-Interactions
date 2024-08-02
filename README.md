@@ -12,11 +12,11 @@ The purpose of this project was to determine the accuracy of computational model
    - **AlphaFold**: AI system utilized for high-accuracy structure predictions of both wild-type and mutant MDH in Microsoft Azure VM. 
    - **Rosetta**: Monte Carlo Method- based program for ab initio structure predictions concurrently queried in Ubuntu VM Linux screens. 
 
-2. **Docking Simulations**:
+2. **Structure Visualization**:
+   - **PyMol**: Used to visualize .pdb models generated from structure prediction programs. Compared to RCSB PDB crystal structure.
+   - 
+3. **Docking Simulations**:
    - **AutoDock Vina**: Conducted docking simulations to assess binding interactions of different MDH structures (wt vs. mutant) with oxaloacetate at three arginine residues. 
-
-3. **Structure Visualization**:
-   - **PyMol**: Used to visualize .pdb models generated from structure prediction programs. Compared to RCSB PDB crystal structure. 
 
 ### Results
 
